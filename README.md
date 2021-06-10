@@ -1,3 +1,4 @@
+<img src="/img/logo.jpg" alt="Youtube" width="300" height="100" />
 <p><strong>Autor: Jeferson Oliveira</strong></p>
 <p><strong><a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://www.transparentpng.com/thumb/linkedin/linkedin-icon-png-4.png" alt="Linkedin" width="50" height="50" /></a></strong></p>
 <p><strong>Linkedin</strong></p>
