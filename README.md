@@ -1,5 +1,5 @@
 <a href="#"><img src="/img/logo.jpg" alt="Youtube" width="100%" height="50%" /></a>
-<p><strong>Autor: Jeferson Oliveira</strong></p>
+<p><strong>Autores: Jeferson Oliveira, Jefferson Pereira</strong></p>
 <p><strong><a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://www.transparentpng.com/thumb/linkedin/linkedin-icon-png-4.png" alt="Linkedin" width="50" height="50" /></a></strong></p>
 <p><strong>Linkedin</strong></p>
 <p><strong><a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://portal.ifba.edu.br/irece/institucional/documentos-institucionais/ascom_ifba_irece/imagens/youtube-icon-14.png" alt="Youtube" width="50" height="50" /></a></strong></p>
@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <h2>Instru&ccedil;&otilde;es de uso do software</h2>
 <p><strong>O software do cliente</strong> abrir o software do cliente o usu&aacute;rio vai ver <strong>a tela de Login.</strong></p>
-<p>Figura 1 Tela de login</p>
+
 <p><strong>A tela de login</strong> possui dois campos de texto um bot&atilde;o e uma label</p>
 <p>Para antes de logar o usu&aacute;rio deve criar uma conta clicando em criar conta. Ap&oacute;s criar a conta ele pode colocar o nome que ele criou e a senha para logar no sistema.</p>
 <p><strong>A tela de criar contas.</strong></p>
