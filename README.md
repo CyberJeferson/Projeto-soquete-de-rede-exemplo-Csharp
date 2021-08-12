@@ -8,9 +8,19 @@
 <p><strong>E-mail: <a href="mailto:contact.jeferson.oliveira@gmail.com">contact.jeferson.oliveira@gmail.com</a></strong></p>
 <p>&nbsp;</p>
 
-<h1>Network communication project in C#</h1>
 <div>
+ 
+ <h1>🛰️ Technologies used</h1>
+ 
+<ol>
+<li>C#</li>
+<li>GMAP</li>
+<li>SQL</li>
+</ol>
+</div>
 
+<div>
+<h1>🗺️ Network communication project in C#</h1>
 This project was used as academic work at UNIP, it is an example of network communication via socket.
 
  
